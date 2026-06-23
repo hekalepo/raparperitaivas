@@ -83,6 +83,8 @@ export const therapists: Therapist[] = [
     education: "Dialogis-reflektiivinen perhe- ja paripsykoterapeutti, FM & YTM",
     phone: "+358 468037708",
     email: "terapiat@icloud.com",
-    image: "/images/henri1.jpg"
+    image: "/images/henri1.jpg",
+    bookingUrl: "http://vello.fi/katkoviivoja"
+
   }
 ];
