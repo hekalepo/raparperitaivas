@@ -84,7 +84,7 @@ export const therapists: Therapist[] = [
     phone: "+358 468037708",
     email: "terapiat@icloud.com",
     image: "/images/henri1.jpg",
-    bookingUrl: "http://vello.fi/katkoviivoja"
+    bookingUrl: "http://calendly.com/terapiat"
 
   }
 ];
